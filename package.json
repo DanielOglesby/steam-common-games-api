@@ -1,0 +1,20 @@
+{
+  "name": "playwithfriends",
+  "version": "1.0.0",
+  "description": "An app to find steam games in common between friends",
+  "main": "app.js",
+  "author": "Daniel Oglesby",
+  "license": "MIT",
+  "type": "module",
+  "dependencies": {
+    "axios": "^1.6.8",
+    "dotenv": "^16.4.5",
+    "express": "^4.19.2",
+    "prettier": "^3.2.5",
+    "serverless-http": "^3.2.0",
+    "typescript": "^5.4.5"
+  },
+  "scripts": {
+    "test": "jest"
+  }
+}
