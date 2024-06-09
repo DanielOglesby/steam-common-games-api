@@ -1,4 +1,4 @@
-**playwithfriends-api**
+**steam-common-games-api**
 
 This is a lightweight nodejs/expressjs app that uses the [Steam web API](https://developer.valvesoftware.com/wiki/Steam_Web_API#GetPlayerSummaries_.28v0001.29) to find games in common between two steam accounts.
 
